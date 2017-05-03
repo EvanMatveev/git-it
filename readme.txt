@@ -1,0 +1,1 @@
+This is the project for the FCC back-end certificate. The main goal if this challenge is to understand how to work with Git as it's an essential tool for every modern developer/programmer.
